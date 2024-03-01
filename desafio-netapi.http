@@ -1,0 +1,6 @@
+@desafio_netapi_HostAddress = http://localhost:5230
+
+GET {{desafio_netapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
